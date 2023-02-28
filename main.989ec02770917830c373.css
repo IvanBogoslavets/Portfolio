@@ -533,7 +533,7 @@ button {
 body {
     font-family: "IBM Plex Mono", monospace;
     background: url(assets/BMW.jpg) no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position-y: 35%;
     z-index: 0;
   }
